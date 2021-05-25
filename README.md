@@ -1,1 +1,4 @@
-# rock_paper_scissorsv1
+# Rock Paper Scissors
+
+## Contributers
+@kylieyying
