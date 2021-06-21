@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Number Guesser
 
 ## Contributers
 @kylieyying
