@@ -1,6 +1,7 @@
 import random
 
-def guess(x):
+def guess():
+    x = int(input("Please type the maximum number range: "))
     random_number = random.randint(1, x)
     # start guess at 0 value
     guess = 0
@@ -18,4 +19,4 @@ def guess(x):
             print ('You got it right!') 
 
 # input the maximum number value to guess
-guess(10)
+guess()
