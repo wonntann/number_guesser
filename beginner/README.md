@@ -5,7 +5,7 @@ Create a new Python file.
 
 
 ## Step 2
-Prompt end user for a number, then compare the guessed number to the computer generated number. Indicate whether the user guessed user guessed to high, too low or correctly.
+Prompt end user for a number, then compare the guessed number to the computer generated number. Indicate whether the user guessed to high, too low or correctly.
 
 
 ## Step 3
