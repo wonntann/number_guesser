@@ -27,7 +27,7 @@ In this module, you will be building a random number selector within a given ran
 * [Functions](https://www.w3schools.com/python/python_functions.asp)
 * [While Loops](https://www.w3schools.com/python/python_while_loops.asp)
 * [If ... Else](https://www.w3schools.com/python/python_conditions.asp)
-* [Format](https://www.w3schools.com/python/python_string_formatting.asp)
+* [f-string](https://www.python.org/dev/peps/pep-0498/)
 
 
 
