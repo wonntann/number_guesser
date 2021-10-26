@@ -20,11 +20,11 @@ while attempts < 6:
         print("You guessed a little too low")
 
     # if the player's guess is too high
-    if guess > number:
+    elif guess > number:
         print("You guessed a little too high")
         
     # if the player won, stop the loop
-    if guess == number:
+    elif guess == number:
         break
 
 # if the player won
