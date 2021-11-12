@@ -17,7 +17,7 @@ Create a new Python file.
 
 
 ## Step 3
-Save and execute the code. You can look at the [solution](#solution.py) after completed or if stuck.
+Save and execute the code. You can look at the [solution](https://github.com/wonntann/number_guesser/blob/main/beginner/solution.py) after completed or if stuck.
 
 
 ## Troubleshooting
